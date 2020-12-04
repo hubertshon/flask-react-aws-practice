@@ -21,7 +21,7 @@ const NavBar = (props) => {
           Register
         </Link>
         <Link to="/login" className="navbar-item" data-testid="nav-login">
-          Log In
+          Sign In
         </Link>
       </div>
     </div>
